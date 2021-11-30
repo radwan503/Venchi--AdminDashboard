@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="805" height="483" viewBox="0 0 805 483">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #e65151;
+        font-size: 255px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: BookmanOldStyle-Bold, Bookman Old Style;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: #69646b;
+        font-size: 283px;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(545 60.166)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="805" height="423" transform="translate(-545 -0.166)"/>
+    <text id="V" class="cls-2" transform="translate(-293 253.834)"><tspan x="0" y="0">V</tspan></text>
+    <text id="V-2" data-name="V" class="cls-3" transform="translate(-244 205.834)"><tspan x="0" y="0">V</tspan></text>
+  </g>
+</svg>
